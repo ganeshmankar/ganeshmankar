@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Mankar</h1>
-<h3 align="center">Passionate and Self-Motivated Programmer Seeking Job Opportunities | Computer Engineering Student | Java Full-stack Developer, Data Science |</h3>
+<h3 align="center">Passionate and Self-Motivated Programmer Seeking Job Opportunities | Computer Engineering Student | 
+  | Java Full-stack Developer, Data Science |</h3>
 
 - 🌱 I’m currently learning **Python for Data Science**
 
