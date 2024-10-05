@@ -6,6 +6,4 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **Full stack developement & Data Science Projects**
-
 - 📫 How to reach me **ganeshnmankar28@gmail.com**
