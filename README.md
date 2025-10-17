@@ -44,11 +44,6 @@ I love exploring **Generative AI**, **ReactJS**, and **.NET Core** to build smar
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshmankar&show_icons=true&theme=tokyonight" alt="Ganesh's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshmankar&theme=tokyonight" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshmankar&layout=compact&theme=tokyonight" height="150" />
 </p>
 
